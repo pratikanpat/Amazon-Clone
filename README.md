@@ -8,7 +8,7 @@ Hero Page: Displays an eye-catching hero page with relevant images and text.
 Shopping Boxes: Showcases product boxes with images and links for various categories.
 Footer: Includes a comprehensive footer with various sections like navigation, language selection, and copyright information.
 # How to use
-Clone the repository: git clone https://github.com/your-username/amazon-clone.git
+Clone the repository: git clone https://github.com/pratikanpat/Amazon-Clone/tree/main
 Open the index.html file in your preferred web browser.
 Feel free to customize the project, add functionalities, or use it as a foundation for your web development projects.
 # Contributing
